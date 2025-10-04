@@ -1,0 +1,38 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+dist/
+build/
+logs/
+*.log
+coverage.xml
+htmlcov/
+.tox/
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+completed_courses.json
+# Ignore any saved HTML/debug snapshots
+course_*_after_*.html
+course_*_after_*.html.tmp
+# OS-specific
+desktop.ini
+# Chrome/driver binaries (in case they get downloaded locally)
+chromedriver*
+# Node/npm
+node_modules/
+npm-debug.log
+
+# Optional: ignore local secrets or credentials files
+credentials.ini
+secrets.json
