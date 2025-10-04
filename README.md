@@ -98,11 +98,3 @@ This project is intentionally small and single-purpose. If you'd like improvemen
 This repository is provided under the MIT License (use and modify freely).
 
 ---
-
-If you'd like, I can:
-
-- Make `completed_courses.json` optional via an environment flag.
-- Add a `--dry-run` CLI mode that navigates and reports actions without clicking submit.
-- Add a short troubleshooting GIF or screenshots to the README (if you provide one).
-
-Which of these (if any) would you like next?
