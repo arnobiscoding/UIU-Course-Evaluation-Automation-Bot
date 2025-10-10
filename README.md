@@ -6,6 +6,8 @@ I made this because course evaluations felt monotonous and repetitive — this t
 
 This repository contains a single Python script that logs into the UCAM dashboard, navigates to the Course Evaluation page, selects each course, sets the expected grade to "A", chooses "Strongly Agree" for evaluation questions, and submits the form. It includes robust waits and retry strategies for the ASP.NET UpdatePanel-driven page.
 
+> **Looking for what this bot can do?** See [CAPABILITIES.md](CAPABILITIES.md) for a comprehensive overview of features, use cases, and technical details.
+
 > Free for all to use. Use responsibly and in accordance with your institution's policies.
 
 ---
@@ -71,6 +73,7 @@ The script logs progress to the console. By default it runs headless (no browser
 
 - `bot_login.py` — main automation script.
 - `requirements.txt` — dependencies.
+- `CAPABILITIES.md` — detailed documentation of what this bot can do for you.
 
 ---
 
